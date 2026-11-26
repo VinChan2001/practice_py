@@ -10,7 +10,7 @@ Python practice notebooks.
 
 ## Run
 
-Requires Python 3.10+ and Jupyter. No other dependencies.
+Requires Python 3.6+ (f-strings) and Jupyter. No other dependencies.
 
 ```bash
 jupyter notebook oop.ipynb
